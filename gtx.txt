@@ -1,1 +1,3 @@
-Новый файл nano
+﻿Новый файл nano
+
+aaaaaaaaaaaa
